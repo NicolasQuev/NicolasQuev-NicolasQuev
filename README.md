@@ -127,7 +127,7 @@
 ¿Tienes una idea, un proyecto web o deseas colaborar? ¡Escríbeme!
 
 - 📧 **Correo**: [nicolasquevedo20@gmail.com](mailto:nicolasquevedo20@gmail.com)
-- 💬 **LinkedIn**: [Nicolás Quevedo Sánchez](https://www.linkedin.com/in/nicol%C3%A1s-quevedo-s%C3%A1nchez-841a0b39a/)
+- 💬 **LinkedIn**: [Nicolás Quevedo Sánchez](www.linkedin.com/in/nicolás-andré-quevedo-sánchez-841a0b39a)
 - 🛒 **Google Play**: [DevNicolas_:) en Play Store](https://play.google.com/store/apps/details?id=com.luna.ciclokawaii)
 
 <p align="center">
