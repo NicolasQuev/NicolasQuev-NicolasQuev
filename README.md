@@ -121,21 +121,7 @@
 
 ---
 
-### 📊 **Estadísticas de GitHub**
 
-<div align="center">
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NicolasQuev&show_icons=true&theme=dark&hide_border=true&title_color=dc2626&icon_color=dc2626&bg_color=1a0f0f&text_color=ffffff" alt="GitHub Stats" />
-  &nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasQuev&layout=compact&theme=dark&hide_border=true&title_color=dc2626&bg_color=1a0f0f&text_color=ffffff" alt="Top Langs" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasQuev&theme=dark&background=1a0f0f&ring=dc2626&fire=dc2626&currStreakLabel=dc2626" alt="GitHub Streak" />
-
-</div>
-
----
 
 ### 📬 **¿Hablamos? / Let's Connect!**
 
